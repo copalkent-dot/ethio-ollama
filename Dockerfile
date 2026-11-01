@@ -8,3 +8,4 @@ ENV OLLAMA_HOST=0.0.0.0
 
 # Execute the serve command on runtime startup
 ENTRYPOINT ["ollama", "serve"]
+
